@@ -3,5 +3,5 @@ __pycache__/
 *.pyc
 .env
 data/raw/
-*.csv
+*.csv     
 .DS_Store
