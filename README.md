@@ -142,4 +142,4 @@ fraud-detection-gnn/
   methods) as a walk-free alternative better suited to this graph's sparsity
 
 ## Author
-Owen — Mathematics & Mathematical Statistics, University of Cape Town
+Owen Mboma — Mathematics & Mathematical Statistics, University of Cape Town Student 
